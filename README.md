@@ -19,5 +19,3 @@
 - 마우스를 hover 했을 때 화면이 이에 반응하여 다이나믹한 움직임을 보여준다.
 
 https://github.com/jeong9745/jQuery-mall/assets/156148169/d0533ef0-93f4-4206-9408-bbb786b1dfb2
-
-
