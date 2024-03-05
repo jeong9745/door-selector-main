@@ -11,7 +11,8 @@
 
 
 # 기술 스택
-![door-selector-main](https://github.com/jeong9745/door-selector-main/assets/156148169/64f7abeb-96da-4fab-9d2d-90980b9cdd7f)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 # 주요 기능
 
